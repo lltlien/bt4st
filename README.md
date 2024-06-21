@@ -15,7 +15,6 @@ cd BT4ST/
 2. Install `fairseq`:
 
 ```
-git clone https://github.com/facebookresearch/fairseq.git
 cd fairseq/
 pip install --editable ./
 python setup.py build develop
